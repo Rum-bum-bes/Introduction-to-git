@@ -1,0 +1,7 @@
+let firstArray = [1, 2, 3, 4, 5]()
+let newArray: [Int] = [5, 4, 3, 2, 1]
+var someStr = ["a", "b", "c"]
+var outputArr = [Int]()
+for i in firstArray {
+   outptArr.append(i)
+}
