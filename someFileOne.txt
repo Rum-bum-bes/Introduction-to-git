@@ -5,3 +5,4 @@ var outputArr = [Int]()
 for i in firstArray {
    outptArr.append(i)
 }
+print("Hello world")
